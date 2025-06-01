@@ -38,10 +38,11 @@ Atualmente, desenvolvo estudos voltados à formulação matemática das teorias 
 
 ## 📫 Contato
 
-- Email: seu.email@aluno.ufpi.edu.br  
-- Lattes: [Currículo Lattes](https://lattes.cnpq.br/SEU-CÓDIGO)  
+- Email: fernandodamaceno@ufpi.edu.br  
+- Lattes: [Currículo Lattes](https://lattes.cnpq.br/8846392425401204)  
 - LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
 
 ---
 
-_Aprender física é explorar o universo com lápis, papel e imaginação._ ✨
+_Study hard what interests you the most in the most undisciplined, irreverent and
+original manner possible._ 
