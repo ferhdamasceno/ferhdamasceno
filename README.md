@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Olá, seja bem-vindo(a)!
 
-<!--
-**ferhdamasceno/ferhdamasceno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Física** na **Universidade Federal do Piauí (UFPI)**, com interesse especial em **Teoria Quântica de Campos**, **Geometria Diferencial** e **Física Teórica** em geral.  
+Atualmente, desenvolvo estudos voltados à formulação matemática das teorias de gauge e suas estruturas geométricas.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Interesses Acadêmicos
+
+- Teoria Quântica de Campos (TQC)
+- Campos de Gauge e Geometria de Fibrados
+- Relatividade Geral e Gravitação
+- Topologia Diferencial e Física Matemática
+- Fundamentos da Mecânica Quântica
+
+---
+
+## 📚 Estudos Recentes
+
+> Algumas leituras e tópicos que tenho estudado:
+
+- **Peskin & Schroeder** – *An Introduction to Quantum Field Theory*
+- **Nakahara** – *Geometry, Topology and Physics*
+- **Baez & Muniain** – *Gauge Fields, Knots and Gravity*
+- **Teoria de Fibrados Principais** aplicada à Física de Campos
+
+---
+
+## 🔬 Projetos e Notas
+
+> Repositórios relacionados aos meus estudos e anotações pessoais:
+
+- 📘 [`qft-notes`](https://github.com/seu-usuario/qft-notes): Anotações em Teoria Quântica de Campos
+- 🌐 [`gauge-geometry`](https://github.com/seu-usuario/gauge-geometry): Estudo de campos de gauge com abordagem geométrica
+- ✍️ [`latex-notes`](https://github.com/seu-usuario/latex-notes): Compilado de anotações acadêmicas em LaTeX
+
+---
+
+## 📫 Contato
+
+- Email: seu.email@aluno.ufpi.edu.br  
+- Lattes: [Currículo Lattes](https://lattes.cnpq.br/SEU-CÓDIGO)  
+- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+
+---
+
+_Aprender física é explorar o universo com lápis, papel e imaginação._ ✨
