@@ -34,7 +34,7 @@ Atualmente, desenvolvo estudos voltados à formulação matemática das teorias 
 - 🌐 [`gauge-geometry`](https://github.com/seu-usuario/gauge-geometry): Estudo de campos de gauge com abordagem geométrica
 - ✍️ [`latex-notes`](https://github.com/seu-usuario/latex-notes): Compilado de anotações acadêmicas em LaTeX -->
 - 📘 [`algebra-notes`](https://github.com/ferhdamasceno/Algebra-Linear): Anotações em Álgebra Linear
-- 📘 [`algebra-notes`](https://github.com/ferhdamasceno/lie-group): Anotações em Grupo de Lie
+- 📘 [`lie-group-notes`](https://github.com/ferhdamasceno/lie-group): Anotações em Grupo de Lie
 ---
 
 ## 📫 Contato
