@@ -1,4 +1,4 @@
-# 👋 Olá, seja bem-vindo(a)!
+# :globe_with_meridians: Olá, seja bem-vindo(a)!
 
 Sou estudante de **Física** na **Universidade Federal do Piauí (UFPI)**, com interesse especial em **Teoria Quântica de Campos**, **Geometria Diferencial** e **Física Teórica** em geral.  
 Atualmente, desenvolvo estudos voltados à formulação matemática das teorias de gauge e suas estruturas geométricas.
