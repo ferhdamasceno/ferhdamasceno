@@ -30,9 +30,9 @@ Atualmente, desenvolvo estudos voltados à formulação matemática das teorias 
 
 > Repositórios relacionados aos meus estudos e anotações pessoais:
 
-- 📘 [`qft-notes`](https://github.com/seu-usuario/qft-notes): Anotações em Teoria Quântica de Campos
+<!-- - 📘 [`qft-notes`](https://github.com/seu-usuario/qft-notes): Anotações em Teoria Quântica de Campos
 - 🌐 [`gauge-geometry`](https://github.com/seu-usuario/gauge-geometry): Estudo de campos de gauge com abordagem geométrica
-- ✍️ [`latex-notes`](https://github.com/seu-usuario/latex-notes): Compilado de anotações acadêmicas em LaTeX
+- ✍️ [`latex-notes`](https://github.com/seu-usuario/latex-notes): Compilado de anotações acadêmicas em LaTeX -->
 - 📘 [`algebra-notes`](https://github.com/ferhdamasceno/Algebra-Linear): Anotações em Álgebra Linear
 ---
 
