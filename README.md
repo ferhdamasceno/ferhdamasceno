@@ -39,8 +39,7 @@ Atualmente, desenvolvo estudos voltados à formulação matemática das teorias 
 ## 📫 Contato
 
 - Email: fernandodamaceno@ufpi.edu.br  
-- Lattes: [Currículo Lattes](https://lattes.cnpq.br/8846392425401204)  
-- LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+- Lattes: [Currículo Lattes](https://lattes.cnpq.br/8846392425401204)
 
 ---
 
