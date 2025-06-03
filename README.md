@@ -34,6 +34,7 @@ Atualmente, desenvolvo estudos voltados à formulação matemática das teorias 
 - 🌐 [`gauge-geometry`](https://github.com/seu-usuario/gauge-geometry): Estudo de campos de gauge com abordagem geométrica
 - ✍️ [`latex-notes`](https://github.com/seu-usuario/latex-notes): Compilado de anotações acadêmicas em LaTeX -->
 - :notebook: [`lectures-notes`](https://github.com/ferhdamasceno/lectures-notes): Notas de Aula
+- :page_with_curl: [`tcc`](https://github.com/ferhdamasceno/monografia): Meu Trabalho de Conclusão de Curso(TCC)
 ---
 
 ## 📫 Contato
