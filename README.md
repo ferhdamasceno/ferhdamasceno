@@ -44,5 +44,5 @@ Atualmente, desenvolvo estudos voltados à formulação matemática das teorias 
 
 ---
 
-_Study hard what interests you the most in the most undisciplined, irreverent and
-original manner possible._ 
+_"Study hard what interests you the most in the most undisciplined, irreverent and
+original manner possible."_ 
