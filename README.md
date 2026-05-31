@@ -1,4 +1,4 @@
-<h1 align="center">Fernando H. Damamceno </h1>
+<h1 align="center">Fernando H. Damaceno </h1>
 
 <p align="center">
 String Theory • Mathematical Physics • Gauge Theories • Differential Geometry
