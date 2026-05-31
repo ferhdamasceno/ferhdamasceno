@@ -15,9 +15,7 @@ Exploring the geometric foundations of modern theoretical physics.
 - Geometria Diferencial
 - Topologia
 - Relatividade Geral
-- Métodos Matemáticos da Física
-- Computação Científica
-- Machine Learning aplicado à Ciência
+- Teoria de Cordas
 
 ---
 
