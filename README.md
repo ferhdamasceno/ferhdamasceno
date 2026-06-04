@@ -4,12 +4,12 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║          S T R I N G   T H E O R Y  &  Q F T                ║
+║          S T R I N G   T H E O R Y  &  Q F T                 ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-# `[seu_nome]`
+# `Fernando H. Damaceno`
 ### Físico Teórico · Teoria de Cordas & Teoria Quântica de Campos
 
 [![arXiv](https://img.shields.io/badge/arXiv-papers-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/search/?searchtype=author&query=seu_nome)
