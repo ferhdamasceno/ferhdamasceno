@@ -1,32 +1,32 @@
 <div align="center">
 
-# Olá, eu sou o Fernando Damasceno 👋
+# Hi, I'm Fernando Damasceno 👋
 
-### Físico pela UFPI · Pesquisador em Física Teórica e Matemática
+### Physicist from UFPI · Researcher in Theoretical Physics and Mathematics
 
 $$S_{\text{Polyakov}}=-\frac{1}{4\pi\alpha'}\int d^2\sigma\,\sqrt{-h}\,h^{ab}\,\partial_a X^\mu\,\partial_b X_\mu$$
 
-*"A natureza é escrita em linguagem matemática."*
+*"Nature is written in the language of mathematics."*
 
-[![Instagram](https://img.shields.io/badge/Instagram-@ferhdmasceno-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ferhdmasceno)
+[![Instagram](https://img.shields.io/badge/Instagram-@ferhdamasceno-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ferhdamasceno)
 [![Gmail](https://img.shields.io/badge/Email-fernandodamascenoo91@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandodamascenoo91@gmail.com)
 
 </div>
 
 ---
 
-## 🔭 Sobre mim
+## 🔭 About me
 
-Sou **físico formado pela Universidade Federal do Piauí (UFPI)** e pesquiso na interface entre **física teórica** e **matemática**, com interesse em como estruturas geométricas e algébricas descrevem as interações fundamentais da natureza.
+I'm a **physicist graduated from the Federal University of Piauí (UFPI)**, and my research sits at the interface between **theoretical physics** and **mathematics**, with a focus on how geometric and algebraic structures describe the fundamental interactions of nature.
 
-## 🧮 Áreas de pesquisa
+## 🧮 Research areas
 
-| Área | O que me fascina |
-|------|------------------|
-| **Teoria de Cordas** | Cordas relativísticas, ação de Polyakov, simetria conforme e gravidade quântica |
-| **Teoria Quântica de Campos** | Integrais de caminho, simetrias, renormalização e teorias de gauge |
-| **Geometria Simplética** | Formalismo hamiltoniano, variedades simpléticas e quantização |
-| **Geometria Complexa** | Variedades de Kähler, fibrados holomorfos e espaços de Calabi–Yau |
+| Area | What fascinates me |
+|------|--------------------|
+| **String Theory** | Relativistic strings, the Polyakov action, conformal symmetry and quantum gravity |
+| **Quantum Field Theory** | Path integrals, symmetries, renormalization and gauge theories |
+| **Symplectic Geometry** | Hamiltonian formalism, symplectic manifolds and quantization |
+| **Complex Geometry** | Kähler manifolds, holomorphic bundles and Calabi–Yau spaces |
 
 $$Z=\int \mathcal{D}\phi\;e^{\,iS[\phi]/\hbar}
 \qquad\qquad
@@ -34,38 +34,38 @@ $$Z=\int \mathcal{D}\phi\;e^{\,iS[\phi]/\hbar}
 \qquad\qquad
 \omega=\frac{i}{2}\,g_{i\bar{j}}\,dz^i\wedge d\bar{z}^{\,j}$$
 
-## 📚 Materiais e publicações
+## 📚 Materials and publications
 
-- 📝 **Notas de aula:** [github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_DE_NOTAS](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_DE_NOTAS)
-- 📄 **Papers:** [github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_DE_PAPERS](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_DE_PAPERS)
-- 🔗 **arXiv:** [arxiv.org/a/SEU_ID](https://arxiv.org/a/SEU_ID)
+- 📝 **Lecture notes:** [github.com/YOUR_USERNAME/LECTURE_NOTES_REPO](https://github.com/YOUR_USERNAME/LECTURE_NOTES_REPO)
+- 📄 **Papers:** [github.com/YOUR_USERNAME/PAPERS_REPO](https://github.com/YOUR_USERNAME/PAPERS_REPO)
+- 🔗 **arXiv:** [arxiv.org/a/YOUR_ID](https://arxiv.org/a/YOUR_ID)
 
-## 🛠️ Ferramentas
+## 🛠️ Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-## 🎯 Atualmente estudando
+## 🎯 Currently studying
 
-- Estruturas simpléticas e quantização geométrica
-- Teorias de gauge e o formalismo de integrais de caminho
-- Geometria de Kähler e variedades de Calabi–Yau em compactificações de cordas
+- Symplectic structures and geometric quantization
+- Gauge theories and the path integral formalism
+- Kähler geometry and Calabi–Yau manifolds in string compactifications
 
-## 📫 Contato
+## 📫 Contact
 
-Se quiser conversar sobre física, matemática ou possíveis colaborações, fique à vontade para me escrever:
+If you'd like to talk about physics, mathematics or possible collaborations, feel free to reach out:
 
 - ✉️ **Email:** [fernandodamascenoo91@gmail.com](mailto:fernandodamascenoo91@gmail.com)
-- 📷 **Instagram:** [@ferhdmasceno](https://instagram.com/ferhdamasceno)
+- 📷 **Instagram:** [@ferhdamasceno](https://instagram.com/ferhdamasceno)
 
 ---
 
 <div align="center">
 
-$$\boxed{\,\text{Física} \;\leftrightarrow\; \text{Matemática}\,}$$
+$$\boxed{\,\text{Physics} \;\leftrightarrow\; \text{Mathematics}\,}$$
 
-⭐ *Sinta-se à vontade para explorar meus repositórios!*
+⭐ *Feel free to explore my repositories!*
 
 </div>
