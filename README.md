@@ -58,7 +58,7 @@ $$Z=\int \mathcal{D}\phi\;e^{\,iS[\phi]/\hbar}
 Se quiser conversar sobre física, matemática ou possíveis colaborações, fique à vontade para me escrever:
 
 - ✉️ **Email:** [fernandodamascenoo91@gmail.com](mailto:fernandodamascenoo91@gmail.com)
-- 📷 **Instagram:** [@ferhdmasceno](https://instagram.com/ferhdmasceno)
+- 📷 **Instagram:** [@ferhdmasceno](https://instagram.com/ferhdamasceno)
 
 ---
 
