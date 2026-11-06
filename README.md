@@ -1,90 +1,71 @@
-<!-- Header -->
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║          S T R I N G   T H E O R Y  &  Q F T                 ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+# Olá, eu sou o Fernando Damasceno 👋
 
-# `Fernando H. Damaceno`
-### Físico Teórico · Teoria de Cordas & Teoria Quântica de Campos
+### Físico pela UFPI · Pesquisador em Física Teórica e Matemática
 
-[![arXiv](https://img.shields.io/badge/arXiv-papers-b31b1b?style=flat-square&logo=arxiv)](https://arxiv.org/search/?searchtype=author&query=seu_nome)
-[![INSPIRE-HEP](https://img.shields.io/badge/INSPIRE--HEP-profile-0a6ead?style=flat-square)](https://inspirehep.net/authors/seu_id)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0000--0000--0000-a6ce39?style=flat-square&logo=orcid)](https://orcid.org/0000-0000-0000-0000)
+$$S_{\text{Polyakov}}=-\frac{1}{4\pi\alpha'}\int d^2\sigma\,\sqrt{-h}\,h^{ab}\,\partial_a X^\mu\,\partial_b X_\mu$$
+
+*"A natureza é escrita em linguagem matemática."*
+
+[![Instagram](https://img.shields.io/badge/Instagram-@ferhdmasceno-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ferhdmasceno)
+[![Gmail](https://img.shields.io/badge/Email-fernandodamascenoo91@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandodamascenoo91@gmail.com)
 
 </div>
 
 ---
 
-## Sobre
+## 🔭 Sobre mim
 
-Pesquisador em **Teoria de Cordas** e **Teoria Quântica de Campos**, com interesse em estruturas matemáticas profundas que emergem na interseção entre física e geometria. Este repositório serve como espaço aberto para notas de aula, artigos em desenvolvimento e material de estudo.
+Sou **físico formado pela Universidade Federal do Piauí (UFPI)** e pesquiso na interface entre **física teórica** e **matemática**, com interesse em como estruturas geométricas e algébricas descrevem as interações fundamentais da natureza.
 
-> *"The most beautiful thing we can experience is the mysterious. It is the source of all true art and science."*
-> — A. Einstein
+## 🧮 Áreas de pesquisa
 
----
+| Área | O que me fascina |
+|------|------------------|
+| **Teoria de Cordas** | Cordas relativísticas, ação de Polyakov, simetria conforme e gravidade quântica |
+| **Teoria Quântica de Campos** | Integrais de caminho, simetrias, renormalização e teorias de gauge |
+| **Geometria Simplética** | Formalismo hamiltoniano, variedades simpléticas e quantização |
+| **Geometria Complexa** | Variedades de Kähler, fibrados holomorfos e espaços de Calabi–Yau |
 
-## 📂 Diretórios
+$$Z=\int \mathcal{D}\phi\;e^{\,iS[\phi]/\hbar}
+\qquad\qquad
+\iota_{X_H}\,\omega=dH
+\qquad\qquad
+\omega=\frac{i}{2}\,g_{i\bar{j}}\,dz^i\wedge d\bar{z}^{\,j}$$
 
-### 🗒️ Notas de Aula
+## 📚 Materiais e publicações
 
-| Repositório | Tema | Nível |
-|---|---|---|
-| [`📁 /notas-qft`](https://github.com/seu_usuario/notas-qft) | Teoria Quântica de Campos — integrais de caminho, ação efetiva, renormalização | Graduação / Pós |
-| [`📁 /notas-string-theory`](https://github.com/seu_usuario/notas-string-theory) | Teoria de Cordas — cordas bosônicas, supercordas, compactificações | Pós-graduação |
-| [`📁 /notas-ads-cft`](https://github.com/seu_usuario/notas-ads-cft) | Correspondência AdS/CFT e holografia | Pesquisa |
-| [`📁 /notas-geometria-diferencial`](https://github.com/seu_usuario/notas-geometria-diferencial) | Geometria diferencial e variedades para físicos | Fundamentos |
-| [`📁 /notas-supersimetria`](https://github.com/seu_usuario/notas-supersimetria) | Álgebras supersimétricas e extensões do Modelo Padrão | Pós-graduação |
+- 📝 **Notas de aula:** [github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_DE_NOTAS](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_DE_NOTAS)
+- 📄 **Papers:** [github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_DE_PAPERS](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO_DE_PAPERS)
+- 🔗 **arXiv:** [arxiv.org/a/SEU_ID](https://arxiv.org/a/SEU_ID)
 
-### 📄 Artigos & Preprints
+## 🛠️ Ferramentas
 
-| Repositório | Descrição | Status |
-|---|---|---|
-| [`📁 /paper-[titulo-curto]`](https://github.com/seu_usuario/paper-titulo) | Breve descrição do resultado principal | `em escrita` |
-| [`📁 /paper-[titulo-curto]`](https://github.com/seu_usuario/paper-titulo-2) | Breve descrição do resultado principal | `submetido` |
-| [`📁 /paper-[titulo-curto]`](https://github.com/seu_usuario/paper-titulo-3) | Breve descrição do resultado principal | `publicado` |
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
 
-### 🔧 Ferramentas & Scripts
+## 🎯 Atualmente estudando
 
-| Repositório | Descrição |
-|---|---|
-| [`📁 /latex-templates`](https://github.com/seu_usuario/latex-templates) | Templates LaTeX para artigos de HEP/Strings (JHEP, arXiv) |
-| [`📁 /feynman-tools`](https://github.com/seu_usuario/feynman-tools) | Scripts para diagramas de Feynman com TikZ-Feynman |
-| [`📁 /algebra-scripts`](https://github.com/seu_usuario/algebra-scripts) | Cálculos algébricos com Mathematica / Cadabra |
+- Estruturas simpléticas e quantização geométrica
+- Teorias de gauge e o formalismo de integrais de caminho
+- Geometria de Kähler e variedades de Calabi–Yau em compactificações de cordas
 
----
+## 📫 Contato
 
-## 🧮 Tópicos de Interesse
+Se quiser conversar sobre física, matemática ou possíveis colaborações, fique à vontade para me escrever:
 
-```
-Teoria de Cordas          ████████████████████  QFT em espaços curvos
-Teoria de Gauge           ███████████████░░░░░  Supergravidade
-Correspondência AdS/CFT   █████████████░░░░░░░  Amplitudes de espalhamento
-Geometria Algébrica       ████████████░░░░░░░░  Teoria de categorias
-```
-
-**Keywords:**  
-`string theory` · `QFT` · `AdS/CFT` · `holography` · `supersymmetry` · `conformal field theory` · `amplitudes` · `swampland`
-
----
-
-## 📬 Contato
-
-- **E-mail:** `seuemail@instituicao.br`
-- **Instituição:** [Nome da Universidade / Instituto](https://www.instituicao.br)
-- **Grupo de pesquisa:** [Nome do grupo](https://link-para-grupo.br)
+- ✉️ **Email:** [fernandodamascenoo91@gmail.com](mailto:fernandodamascenoo91@gmail.com)
+- 📷 **Instagram:** [@ferhdmasceno](https://instagram.com/ferhdmasceno)
 
 ---
 
 <div align="center">
 
-*Todas as notas estão em constante revisão. Erros e sugestões são bem-vindos via Issues.*
+$$\boxed{\,\text{Física} \;\leftrightarrow\; \text{Matemática}\,}$$
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=seu_usuario.seu_usuario)
+⭐ *Sinta-se à vontade para explorar meus repositórios!*
 
 </div>
